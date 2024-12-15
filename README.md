@@ -4,6 +4,8 @@
 
 This project provides a visual simulation of planetary gears using Python and the Pygame library. Planetary gears are commonly used in mechanical systems, such as automatic transmissions and robotics, due to their compact design and efficiency. This simulation allows users to interact with a planetary gear system by controlling the speed of the sun gear and observing how the planet and ring gears move.
 
+![Planetary Gear System](images/gear_simulation.png)
+
 ## Features
 
 - Visual representation of a planetary gear system.
@@ -48,7 +50,10 @@ Once you have installed Python and Pygame, you can run the simulation by executi
 python planetary_gears.py
 ```
 
-This will open a Pygame window showing the planetary gear system. Use your mouse to adjust the speed of the sun gear and observe the movement of the planet and ring gears in real-time.
+This will open a Pygame window showing the planetary gear system. Use your mouse to adjust the speed of the sun gear and observe the movement of the 
+planet and ring gears in real-time.
+
+[![Showcase Video](https://img.youtube.com/vi/Djb7noLLIic/0.jpg)](https://www.youtube.com/watch?v=Djb7noLLIic)
 
 ### 3. Code Structure
 
